@@ -1,0 +1,14 @@
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\bin\Debug\net7.0\consoleAppMsg2.exe
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\bin\Debug\net7.0\consoleAppMsg2.deps.json
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\bin\Debug\net7.0\consoleAppMsg2.runtimeconfig.json
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\bin\Debug\net7.0\consoleAppMsg2.dll
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\bin\Debug\net7.0\consoleAppMsg2.pdb
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\obj\Debug\net7.0\consoleAppMsg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\obj\Debug\net7.0\consoleAppMsg2.AssemblyInfoInputs.cache
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\obj\Debug\net7.0\consoleAppMsg2.AssemblyInfo.cs
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\obj\Debug\net7.0\consoleAppMsg2.csproj.CoreCompileInputs.cache
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\obj\Debug\net7.0\consoleAppMsg2.dll
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\obj\Debug\net7.0\refint\consoleAppMsg2.dll
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\obj\Debug\net7.0\consoleAppMsg2.pdb
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\obj\Debug\net7.0\consoleAppMsg2.genruntimeconfig.cache
+C:\Users\viswatejak\Desktop\message2\consoleAppMsg2\obj\Debug\net7.0\ref\consoleAppMsg2.dll
